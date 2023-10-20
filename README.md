@@ -21,10 +21,10 @@ Add this module to your terraform project's source code and provide the followin
   - VPC ID
   - Subnet ID
   - (Optional) Instance type, defaults to m5.xlarge
-  - (Optional) Instance name, defaults to nessus-scanner
+  - (Optional) Instance name, defaults to Nessus-scanner
   - (Optional) Scanner name (a friendly name to show in the Tenable.io UI), defaults to Instance name.
   - (Optional) A map of tags to apply to the instance
-  - (Optional) Extra AMI serach filters, defaults to `[]`
+  - (Optional) Extra AMI search filters, defaults to `[]`
 
 ### Outputs
 
